@@ -1,5 +1,5 @@
 https://nickmamula.github.io/
-<h1 align="center">Hi 👋, I'm Mykil</h1>
+<h1 align="center">Hi 👋, I'm Mykola</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
 - 🌱 I’m currently learning **coursed shpp**
