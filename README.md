@@ -2,7 +2,7 @@ https://nickmamula.github.io/
 <h1 align="center">Hi 👋, I'm Mykola</h1>
 <h3 align="center">A passionate frontend developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **coursed shpp** https://diploma.programming.org.ua/d/ojM7n5vrkRO6DpdGW0dbVW8Z43Y0yaEL
+- 🌱 I’m currently learning **coursed shpp** https://diploma.programming.org.ua/en/d/ojM7n5vrkRO6DpdGW0dbVW8Z43Y0yaEL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
